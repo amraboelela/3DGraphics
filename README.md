@@ -12,4 +12,5 @@ A reference and study guide for 3D graphics and engine architecture — abstract
 | [EngineArchitecture.md](EngineArchitecture.md) | Core subsystems; ECS; scene graph; asset pipeline; streaming / LOD; camera fly-over; concurrency |
 | [AdvancedRendering.md](AdvancedRendering.md) | TAA; PBR; SSAO; mesh shaders; neural upscaling; SDF text; Gaussian splatting; ray tracing vs rasterisation |
 | [Culling.md](Culling.md) | Frustum, occlusion, backface, distance, and layer culling |
+| [GraphicsAPIs.md](GraphicsAPIs.md) | Metal vs Direct3D 12 vs Direct3D 11 vs OpenGL vs OpenGL ES vs Xbox GDK |
 | [Resources.md](Resources.md) | Curated video links |

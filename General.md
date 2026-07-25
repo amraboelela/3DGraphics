@@ -8,4 +8,5 @@ This file has been split into topic-specific knowledge bases. See:
 - [EngineArchitecture.md](EngineArchitecture.md) — Core subsystems, ECS, scene graph, asset pipeline, streaming, LOD, concurrency
 - [AdvancedRendering.md](AdvancedRendering.md) — TAA, PBR, SSAO, mesh shaders, neural upscaling, SDF text, Gaussian splatting, ray tracing
 - [Culling.md](Culling.md) — Frustum, occlusion, backface, distance, and layer culling
+- [GraphicsAPIs.md](GraphicsAPIs.md) — Metal vs Direct3D 12 vs Direct3D 11 vs OpenGL vs OpenGL ES vs Xbox GDK
 - [Resources.md](Resources.md) — Curated video links

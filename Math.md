@@ -92,3 +92,10 @@ A quaternion represents a 3D rotation as a 4-component value (x, y, z, w). Compa
 - **Compact** — 4 floats vs a 3×3 rotation matrix (9 floats).
 
 Euler angles are fine for authoring (artist-facing); quaternions are used at runtime.
+
+---
+
+## YouTube Resources
+
+- [What Are SIMD Instructions?](https://www.youtube.com/watch?v=vIRjSdTCIEU)
+- [4× Code Performance with SIMD](https://www.youtube.com/watch?v=Imj4ROIiMw0)

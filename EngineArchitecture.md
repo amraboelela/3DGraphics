@@ -113,3 +113,13 @@ Where P0–P3 are four consecutive waypoints and t ∈ [0, 1] interpolates betwe
 - Workers complete their frame's results → signal a barrier → render thread reads them.
 - Never block the render thread waiting on I/O; double-buffer async results instead.
 - Tile data loaded mid-frame appears in the *next* frame, not the current one.
+
+---
+
+## YouTube Resources
+
+- [SIGGRAPH 2021 REAC: Unity Rendering Architecture](https://www.youtube.com/watch?v=6LzcXPIWUbc)
+- [SIGGRAPH 2021 Rendering Engine Architecture Course (playlist)](https://www.youtube.com/playlist?list=PLAOytOz0HZbLaWhVrGEge5_6dNCAzGFYH)
+- [ECS Game Development Architecture](https://www.youtube.com/watch?v=6djXCScdK54)
+- [Render System — ECS Data into Visuals](https://www.youtube.com/watch?v=pzUIiwVhIco)
+- [Scene Graph — 3D Game Engine Tutorial](https://www.youtube.com/watch?v=ktz9AlMSEoA)

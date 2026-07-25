@@ -17,4 +17,5 @@ A personal reference and study guide for 3D graphics and engine architecture. Th
 | `AdvancedRendering.md` | TAA; PBR / Cook-Torrance BRDF; SSAO; mesh shaders; neural upscaling; SDF text; Gaussian splatting; ray tracing vs rasterisation |
 | `Culling.md` | Frustum, occlusion, backface, distance, and layer culling |
 | `Resources.md` | Curated video links (engine architecture, GPU pipeline, research-grade rendering) |
+| `GraphicsAPIs.md` | Metal vs Direct3D 12 vs Direct3D 11 vs OpenGL vs OpenGL ES vs Xbox GDK — platform, abstraction level, shader language, memory model |
 | `General.md` | Index redirecting to the files above |

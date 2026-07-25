@@ -106,3 +106,12 @@ The heartbeat of the engine — runs every frame at display refresh rate (60 / 9
 Any work that cannot complete within the budget must be offloaded to a background thread and double-buffered — results are consumed in the next frame.
 
 **Fixed vs variable timestep:** physics and gameplay run at a fixed timestep (e.g., 120 Hz) for determinism; rendering runs at whatever rate the display allows. The update loop may tick multiple times between renders if the frame rate drops.
+
+---
+
+## YouTube Resources
+
+- [Introduction to the Render Graph in Unity 6](https://www.youtube.com/watch?v=U8PygjYAF7A)
+- [SIGGRAPH 2021 Rendering Engine Architecture Course (playlist)](https://www.youtube.com/playlist?list=PLAOytOz0HZbLaWhVrGEge5_6dNCAzGFYH)
+- [Metal Performance Best Practices — Apple 2023](https://www.youtube.com/watch?v=LXTUFmbZwec)
+- [WWDC22: Metal Mesh Shaders — Apple](https://www.youtube.com/watch?v=uVfj79_bZsU)

@@ -115,3 +115,14 @@ Used primarily for static scene reconstruction and cinematic novel-view synthesi
 | Use | Real-time games, apps | Offline rendering, hybrid (shadow/reflection rays only) |
 
 Hybrid rendering: use rasterisation for primary visibility (it's fast), then use ray tracing only for secondary effects (shadows, reflections, ambient occlusion) where rasterisation approximations break down.
+
+---
+
+## YouTube Resources
+
+- [TAA — Temporal Anti-Aliasing Deep Dive](https://www.youtube.com/watch?v=WG8w9Yg5B3g)
+- [PBR Explained in 3 Minutes](https://www.youtube.com/watch?v=_ZbkOZNgwNk)
+- [Mesh Shaders — How Do They Work?](https://www.youtube.com/watch?v=8NNnMwcb-hM)
+- [Upscaling Explained — DLSS vs FSR](https://www.youtube.com/watch?v=Chpb3yNypxY)
+- [Glyphs, Shapes, Fonts, Signed Distance Fields](https://www.youtube.com/watch?v=1b5hIMqz_wM)
+- [Advances in Neural Rendering — SIGGRAPH 2021](https://www.youtube.com/watch?v=otly9jcZ0Jg)

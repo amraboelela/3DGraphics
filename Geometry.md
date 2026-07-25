@@ -102,3 +102,10 @@ Analogy: a texture is a tin of paint; a material is the painter's instructions â
 | Content | 3 vertices + indices | Many meshes, textures, labels, metadata |
 | Loaded | At model import time | Streamed on demand as camera moves |
 | LOD | Fewer faces at distance | Lower zoom level (coarser) tile at distance |
+
+---
+
+## YouTube Resources
+
+- [SIGGRAPH 2021 Rendering Engine Architecture Course (playlist)](https://www.youtube.com/playlist?list=PLAOytOz0HZbLaWhVrGEge5_6dNCAzGFYH)
+- [PBR Explained in 3 Minutes](https://www.youtube.com/watch?v=_ZbkOZNgwNk)

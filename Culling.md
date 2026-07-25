@@ -128,3 +128,10 @@ Screen
 ```
 
 Culling never deletes objects — it simply skips rendering work for geometry that cannot contribute to the final image. It is one of the most effective levers for real-time rendering performance.
+
+---
+
+## YouTube Resources
+
+- [SIGGRAPH 2021 Rendering Engine Architecture Course (playlist)](https://www.youtube.com/playlist?list=PLAOytOz0HZbLaWhVrGEge5_6dNCAzGFYH)
+- [SIGGRAPH 2021 REAC: Unity Rendering Architecture](https://www.youtube.com/watch?v=6LzcXPIWUbc)
