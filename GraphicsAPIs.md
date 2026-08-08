@@ -180,3 +180,4 @@ HLSL, GLSL, and MSL are syntactically similar (C-like structs, swizzles, built-i
 - [WWDC22: Metal Mesh Shaders — Apple](https://www.youtube.com/watch?v=uVfj79_bZsU)
 - [Programming Metal in iOS — Full Playlist](https://www.youtube.com/playlist?list=PL23Revp-82LJG3vcDPm8w7b5HTKjBOY0W)
 - [Swift Game Engine with Metal Intro](https://www.youtube.com/watch?v=PcA-VAybgIQ)
+- [Beginner Tutorial: Your First DirectX 12 Application in C++](https://www.youtube.com/watch?v=3ubqb13Cix4)

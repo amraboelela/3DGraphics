@@ -133,5 +133,5 @@ Culling never deletes objects — it simply skips rendering work for geometry th
 
 ## YouTube Resources
 
-- [SIGGRAPH 2021 Rendering Engine Architecture Course (playlist)](https://www.youtube.com/playlist?list=PLAOytOz0HZbLaWhVrGEge5_6dNCAzGFYH)
-- [SIGGRAPH 2021 REAC: Unity Rendering Architecture](https://www.youtube.com/watch?v=6LzcXPIWUbc)
+- [Frustum Culling vs Occlusion Culling (Rendering Optimization)](https://www.youtube.com/watch?v=movildxX06c)
+- [Math for Game Developers — Frustum Culling](https://www.youtube.com/watch?v=4p-E_31XOPM)

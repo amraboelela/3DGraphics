@@ -99,3 +99,6 @@ Euler angles are fine for authoring (artist-facing); quaternions are used at run
 
 - [What Are SIMD Instructions?](https://www.youtube.com/watch?v=vIRjSdTCIEU)
 - [4× Code Performance with SIMD](https://www.youtube.com/watch?v=Imj4ROIiMw0)
+- [The Math behind (most) 3D games — Perspective Projection](https://www.youtube.com/watch?v=U0_ONQQ5ZNM)
+- [Computer Graphics | The MVP Matrix (Model-View-Projection)](https://www.youtube.com/watch?v=a_rX4xfYcy4)
+- [Quaternions and 3D Rotation, Explained Interactively](https://www.youtube.com/watch?v=zjMuIxRvygQ)

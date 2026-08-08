@@ -122,9 +122,9 @@ Hybrid rendering: use rasterisation for primary visibility (it's fast), then use
 
 - [TAA — Temporal Anti-Aliasing Deep Dive](https://www.youtube.com/watch?v=WG8w9Yg5B3g)
 - [PBR Explained in 3 Minutes](https://www.youtube.com/watch?v=_ZbkOZNgwNk)
+- [Microfacet BRDF: Theory and Implementation of Basic PBR Materials](https://www.youtube.com/watch?v=gya7x9H3mV0)
 - [Mesh Shaders: The Future of Shaders and Computer Graphics](https://www.youtube.com/watch?v=w1GzvHTgnDo)
-- [Radosław Paszkowski - Mesh Shaders - The Future of Rendering](https://www.youtube.com/watch?v=3EMdMD1PsgY)
-- [Why You Should Use Mesh Shading](https://www.youtube.com/watch?v=PAwCqrtHxL4)
 - [Upscaling Explained — DLSS vs FSR](https://www.youtube.com/watch?v=Chpb3yNypxY)
 - [Glyphs, Shapes, Fonts, Signed Distance Fields](https://www.youtube.com/watch?v=1b5hIMqz_wM)
 - [Advances in Neural Rendering — SIGGRAPH 2021](https://www.youtube.com/watch?v=otly9jcZ0Jg)
+- [How Ray Tracing Works and How To Do It 600× Faster](https://www.youtube.com/watch?v=gsZiJeaMO48)

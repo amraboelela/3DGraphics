@@ -107,5 +107,5 @@ Analogy: a texture is a tin of paint; a material is the painter's instructions â
 
 ## YouTube Resources
 
-- [SIGGRAPH 2021 Rendering Engine Architecture Course (playlist)](https://www.youtube.com/playlist?list=PLAOytOz0HZbLaWhVrGEge5_6dNCAzGFYH)
-- [PBR Explained in 3 Minutes](https://www.youtube.com/watch?v=_ZbkOZNgwNk)
+- [OpenGL 3D Game Tutorial: Rendering with Index Buffers](https://www.youtube.com/watch?v=z2yFlvkBbmk)
+- [UV Maps Explained](https://www.youtube.com/watch?v=Yx2JNbv8Kpg)

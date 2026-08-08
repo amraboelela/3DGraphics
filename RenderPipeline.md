@@ -111,7 +111,5 @@ Any work that cannot complete within the budget must be offloaded to a backgroun
 
 ## YouTube Resources
 
+- [Graphics Pipeline Overview — Vulkan Game Engine Tutorial](https://www.youtube.com/watch?v=_riranMmtvI)
 - [Introduction to the Render Graph in Unity 6](https://www.youtube.com/watch?v=U8PygjYAF7A)
-- [SIGGRAPH 2021 Rendering Engine Architecture Course (playlist)](https://www.youtube.com/playlist?list=PLAOytOz0HZbLaWhVrGEge5_6dNCAzGFYH)
-- [Metal Performance Best Practices — Apple 2023](https://www.youtube.com/watch?v=LXTUFmbZwec)
-- [WWDC22: Metal Mesh Shaders — Apple](https://www.youtube.com/watch?v=uVfj79_bZsU)
